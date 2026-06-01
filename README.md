@@ -4,7 +4,7 @@ Dmitry Dolgopol
 
 Senior Golang Developer · 6+ years of backend experience · GMT+4
 
-LinkedIn · Email · GitHub  
+[LinkedIn](https://www.linkedin.com/in/dmitriy-dolgopol/) · [Email](dolgopol.dima@gmail.com) · [GitHub](https://github.com/dmitriy-dolgopol/)  
 +995 557 25 37 08
 
 </div>
@@ -34,7 +34,7 @@ Engineering Practices	Code review, incident response, load-related debugging, SQ
 	***
 Experience
 
-INTERACTIVE BROKERS — Senior Backend / Golang Developer
+[INTERACTIVE BROKERS](https://www.interactivebrokers.com/) — Senior Backend / Golang Developer
 
 November 2023 — Present · 3+ years
 
@@ -49,7 +49,7 @@ Added observability around queue depth, backlog, retry rate, error rate, and P95
 Technologies: Go, Kafka, PostgreSQL, Redis, ClickHouse, gRPC, REST, Kubernetes, Docker, Yandex Cloud, Prometheus, Grafana, ELK, Kong
 
 ***
-WHOLE FOODS MARKET — Backend / Golang Developer
+[WHOLE FOODS MARKET](https://www.wholefoodsmarket.co.uk/) — Backend / Golang Developer
 
 July 2021 — October 2023 · 2.4 years
 
@@ -64,7 +64,7 @@ Stabilized integrations with Retail Rocket, KISSmetrics, and Symantec.cloud by a
 Technologies: Go, PostgreSQL, Redis, Elasticsearch, REST API, Docker, Kubernetes, Yandex Cloud, GitLab CI, Prometheus, Grafana, ELK
 
 ***
-OGILVY — Backend / Golang Developer
+[OGILVY](https://www.ogilvy.com/) — Backend / Golang Developer
 
 April 2020 — July 2021 · 1.4 years
 
