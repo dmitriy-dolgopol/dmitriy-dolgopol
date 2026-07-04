@@ -5,7 +5,7 @@ Dmitry Dolgopol
 Senior Golang Developer · 6+ years of backend experience · GMT+4
 
 [LinkedIn](https://www.linkedin.com/in/dmitriy-dolgopol/) · [Email](dolgopol.dima@gmail.com) · [GitHub](https://github.com/dmitriy-dolgopol/)  
-+995 557 25 37 08
+[+995 557 25 37 08](http://wa.me/995557253708)
 
 </div>
 
