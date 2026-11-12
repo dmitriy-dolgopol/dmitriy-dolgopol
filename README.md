@@ -4,7 +4,7 @@
 
 Senior Golang Developer · 6+ years of backend experience · GMT+4
 
-[LinkedIn]([https://www.linkedin.com/in/mitya-dolgopolsky-29589043a/](https://www.linkedin.com/in/dmitrii-d-golang-dev/)) · [Email](mailto:dolgopol.dima@gmail.com) · [GitHub](https://github.com/dmitriy-dolgopol/)  
+[LinkedIn](https://www.linkedin.com/in/mitya-dolgopolsky-29589043a/](https://www.linkedin.com/in/dmitrii-d-golang-dev/) · [Email](mailto:dolgopol.dima@gmail.com) · [GitHub](https://github.com/dmitriy-dolgopol/)  
 [+995 557 25 37 08](https://wa.me/995557253708)
 
 </div>
